@@ -36,18 +36,20 @@ docker
 # 8. github上两个重要页面
 个人主页  数字仪表板
 
-# 9. 主页菜单都包含什么   Overview：概览  Repositories：仓库  Stars ：收藏项目  Follwing  Follers      
+# 9. 主页菜单都包含什么  
+Overview：概览  Repositories：仓库  Stars ：收藏项目  Follwing  Follers      
 
 # 10. 仓库的心跳线代表什么  
 Pulse是体现该仓库软件开发活跃度的功能
 
-# 11. star的作用是？收藏项目
-，目的是方便以后查找。
+# 11. star的作用是？
+收藏项目，目的是方便以后查找。
 
 # 12. fork的作用是？fork 的作用是参与项目
 ，目的是你增加新的内容，然后 Pull Request，把你的修改和主仓库原来的内容合并。
 
-# 13. watch的作用是？作用是关注目的是等作者更新的时候，可以收到通知。
+# 13. watch的作用是？
+作用是关注目的是等作者更新的时候，可以收到通知。
 
 # 16.搜索结果分别有哪些类别
 Repositories  Code   Commits   Issues  Wikis Users
