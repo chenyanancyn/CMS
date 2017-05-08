@@ -1,5 +1,5 @@
 
-1.  # github是什么
+# 1. github是什么
  GitHub IT技术人员的社交平台 
 2. # git是什么
 git是版本控制系统，也称为scm
