@@ -104,4 +104,4 @@
 * 大面积使用的颜色尽量不超过3个色系
 
 ## 7.前端页面的设计中，html、css和javascript分别的作用是？
-> html 内容  css样式  JavaScript 控制行为
+> html 内容      css样式     JavaScript 控制行为
